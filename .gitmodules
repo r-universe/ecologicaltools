@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "IBRtools"]
 	path = IBRtools
 	url = https://github.com/ecologicaltools/ibrtools
-	shallow = true
-	registered = true
